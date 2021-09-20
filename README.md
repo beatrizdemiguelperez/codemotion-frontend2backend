@@ -1,3 +1,6 @@
+# Codemotionn talk
+Video: https://www.youtube.com/watch?v=4irv0ZswJu4 
+Slides: https://docs.google.com/presentation/d/1iZxMxkjkNxZjTAx8VZPdKczJd6t4NsIdK4H1MmF6VVE/edit?usp=sharing
 # frontend2backend
 
 Backend example in Node.js
